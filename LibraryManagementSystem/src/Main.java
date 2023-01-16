@@ -9,7 +9,7 @@ public class Main
 {
 	public static void main(String args[])
     {
-        JFrame introFrame=new JFrame("APKA Library Mangement System");
+        JFrame introFrame=new JFrame("Library Mangement System");
         JPanel introPanel=new JPanel();
         JButton introButton=new JButton(new ImageIcon("IntroPage.png"));
         
