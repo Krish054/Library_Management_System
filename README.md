@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System 📚
 
 *DSA-Assignment (CSF211) BITS Pilani Dubai Sem-II 2021-22*
 
