@@ -4,7 +4,7 @@
 
 This is a simple GUI based Library Management program used to demonstrate some DSA features.
 
-The following concepts are implemented :
+## Concepts implemented : 
 1. Insertion sort
 2. Merge sort
 3. Bucket sort
